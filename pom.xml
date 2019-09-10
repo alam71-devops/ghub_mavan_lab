@@ -21,10 +21,10 @@
         <name>ip-172-31-21-37-snapshots</name>
         <url>http://ec2-18-219-112-179.us-east-2.compute.amazonaws.com:8081/artifactory/libs-snapshot</url>
     </snapshotRepository>
-</distributionManagement>
-  <repository>
+    <repository>
         <id>central</id>
         <name>ip-172-31-21-37-releases</name>
         <url>http://ec2-18-219-112-179.us-east-2.compute.amazonaws.com:8081/artifactory/libs-release</url>
     </repository>
+</distributionManagement>
 </project>
